@@ -9,9 +9,9 @@ url: "https://hakjun1.github.io" # the base hostname & protocol for your site, e
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Kyeongrok # add your name
-author-img: 1598431314481_1.jpg # add your photo
-about-author: 저는 개발자 겸 강사를 하고 있습니다. 매운맛으로 강의 합니다. # add description
+author: hakjun1 # add your name
+author-img: 111222.png # add your photo
+about-author: hi. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: kyeongrok # add your Github handle
